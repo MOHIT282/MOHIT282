@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/mohitku17749629" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mohitku17749629?logo=twitter&style=for-the-badge" alt="https://twitter.com/mohitku17749629" /></a> </p>
 
+- 🔭 I’m currently working on [Travel Guru](https://github.com/MOHIT282/Travel-Guru)
+
 - 🌱 I’m currently learning **DSA, React, Data Science, and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MOHIT282?tab=repositories](https://github.com/MOHIT282?tab=repositories)
